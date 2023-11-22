@@ -12,3 +12,11 @@ Consigli del giorno:
 2. Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 BONUS:
 Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` oppure con la classica concatenazione vista fin'ora) un elemento html con il numero o la stringa corretta da mostrare.
+
+1 - facciamo un ciclo che va da 1 a 100.
+2.a - ? i % 3 == 0 && i % 5 == 0 .
+	2.a.1 stampa "FizzBuzz". 
+2.b.x - : ?  i % 3 == 0 .
+	2.b.x.1 - stampa "Fizz".
+2.b.y - : ? i % 5 == 0 .
+	2.b.y.1 - stampa "Buzz".
